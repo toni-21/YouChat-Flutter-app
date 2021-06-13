@@ -1,6 +1,7 @@
-# you_chat
+# YouChat
 
 A new Flutter project.
+Cross platform realtime messaging app with real time messaging features, audio and video messaging capabitlies making use of Back4App server API and WebSocket technologies.
 
 ## Getting Started
 
